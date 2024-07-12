@@ -1,5 +1,5 @@
 document.getElementById('downloadBtn').addEventListener('click', function () {
-    const url = 'https://github.com/username/repo-name/raw/main/path-to-your-zip-file.zip';
+    const url = 'https://github.com/CollinTheDev/cat-browser-download/raw/main/teleport_menu.zip';
     
     // Create a temporary anchor element and trigger a download
     const a = document.createElement('a');
